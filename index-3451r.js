@@ -1,1 +1,1 @@
-alert('works')
+console.log('works')
